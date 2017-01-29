@@ -1,0 +1,7 @@
+[
+  {
+  "Tname":"Temperature","Tvalue":"30","Tstatus":"Active","TlastUpdate":"10:50 pm",
+  "Hname":"Humidity","Hvalue":"30%","Hstatus":"Active","HlastUpdate":"10:50 pm",
+  "Wname":"Whatever","Wvalue":"A value","Wstatus":"Inactive","WlastUpdate":"Unknown"
+  }
+]
